@@ -1,0 +1,38 @@
+COLLEGE FEST MASTER LIST
+
+Register Number: 192311001
+Name: Ravi
+Department: CSE
+Email: ravi@gmail.com
+Events: Music, Dance
+
+Register Number: 192311002
+Name: Priya
+Department: CSE
+Email: priya@gmail.com
+Events: Drama, Singing
+
+Register Number: 192311003
+Name: Arun
+Department: CSE
+Email: arun@gmail.com
+Events: Music, Coding
+
+Register Number: 192311004
+Name: Divya
+Department: IT
+Email: divya@gmail.com
+Events: Dance, Drama
+
+Register Number: 192311005
+Name: Kumar
+Department: ECE
+Email: kumar@gmail.com
+Events: Singing, Coding
+
+Register Number: 192311007
+Name: Anu
+Department: EEE
+Email: anu@gmail.com
+Events: Dance, Singing
+

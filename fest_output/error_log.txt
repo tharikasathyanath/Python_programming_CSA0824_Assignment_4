@@ -1,0 +1,4 @@
+IT.txt, Line 2: Duplicate registration 192311001
+ECE.txt, Line 2: Invalid email address
+EEE.txt, Line 2: Invalid number of fields
+MECH.txt: Department file missing

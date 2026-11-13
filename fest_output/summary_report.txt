@@ -1,0 +1,10 @@
+COLLEGE FEST SUMMARY
+
+Total Unique Students: 6
+
+Event-wise Participants:
+Music: 2
+Dance: 3
+Drama: 2
+Singing: 3
+Coding: 2

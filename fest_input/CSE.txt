@@ -1,0 +1,3 @@
+192311001,Ravi,CSE,ravi@gmail.com,Music;Dance
+192311002,Priya,CSE,priya@gmail.com,Drama;Singing
+192311003,Arun,CSE,arun@gmail.com,Music;Coding
